@@ -1,3 +1,5 @@
 body{
-    background: #BDBDBD;
+    background: #ffffff;
+    /* Arriba | Derecha | Abajo | Izquierda */
+    margin: 0px 100px 0 100px;
 }
